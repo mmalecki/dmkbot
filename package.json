@@ -1,0 +1,18 @@
+{
+  "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
+  "name": "dmkbot",
+  "description": "Simple bot for #node.js",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "bot.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "irc" : "*",
+    "settings" : "*"
+  },
+  "devDependencies": {}
+}
