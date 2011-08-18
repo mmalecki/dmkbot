@@ -5,7 +5,8 @@ exports.common = {
   },
   modules: {
     ping: {},
-    docs: {}
+    docs: {},
+    up: {}
   }
 }
 
