@@ -9,6 +9,9 @@ exports.common = {
 exports.development = {
   irc: {
     host: "localhost"
+  },
+  modules: {
+    ping: {}
   }
 }
 
