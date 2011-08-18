@@ -11,7 +11,8 @@ exports.development = {
     host: "localhost"
   },
   modules: {
-    ping: {}
+    ping: {},
+    docs: {}
   }
 }
 
