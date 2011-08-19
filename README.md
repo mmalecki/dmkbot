@@ -27,3 +27,7 @@ This is a simple module which responds to a ping command and says "Hello" every 
       callback(from + ', pong');
     }
 
+To run this module, put it in [lib/modules](https://github.com/mmalecki/dmkbot/tree/master/lib/modules) 
+directory, and add an entry in [config/environment.js](https://github.com/mmalecki/dmkbot/blob/master/config/environment.js>) 
+file (simply add an value to `modules` hash, this value will be passed as `settings` argument to your module).
+
