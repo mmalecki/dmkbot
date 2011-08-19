@@ -7,7 +7,7 @@ exports.common = {
     ping: {},
     docs: {},
     up: {},
-    github: {}
+    github: { interval: 5000}
   }
 }
 
