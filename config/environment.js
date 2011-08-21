@@ -1,7 +1,7 @@
 exports.common = {
   irc: {
     nick: "dmkbot",
-    channels: ["#node.js", "#bots"],
+    channels: ["#node.js"],
   },
   modules: {
     ping: {},
