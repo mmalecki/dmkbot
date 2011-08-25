@@ -7,7 +7,10 @@ exports.common = {
     ping: {},
     docs: {},
     up: {},
-    github: { interval: 5000}
+    github: {
+      interval: 5000,
+      repo: 'joyent/node'
+    }
   }
 }
 
