@@ -8,7 +8,7 @@ exports.common = {
     docs: {},
     up: {},
     github: {
-      interval: 5000,
+      interval: 15000,
       repo: 'joyent/node'
     }
   }
