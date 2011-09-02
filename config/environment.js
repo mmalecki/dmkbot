@@ -1,13 +1,16 @@
 exports.common = {
   irc: {
     nick: "dmkbot",
-    channel: "#node.js",
+    channels: ["#node.js"],
   },
   modules: {
     ping: {},
     docs: {},
     up: {},
-    github: { interval: 5000}
+    github: {
+      interval: 15000,
+      repo: 'joyent/node'
+    }
   }
 }
 

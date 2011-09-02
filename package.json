@@ -1,6 +1,7 @@
 {
   "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
   "name": "dmkbot",
+  "private": true,
   "description": "Simple bot for #node.js",
   "version": "0.0.0",
   "repository": {
