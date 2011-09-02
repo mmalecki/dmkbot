@@ -8,6 +8,7 @@ exports.common = {
     docs: {},
     up: {},
     github: {
+      colors: false,
       interval: 15000,
       repo: 'joyent/node'
     }
@@ -23,6 +24,11 @@ exports.development = {
 exports.production = {
   irc: {
     host: "irc.freenode.net"
+  },
+  modules: {
+    github: {
+      colors: true
+    }
   }
 }
 
