@@ -10,7 +10,7 @@ exports.common = {
     github: {
       colors: false,
       interval: 15000,
-      repo: 'joyent/node'
+      repos: ['joyent/node', 'joyent/libuv']
     }
   }
 }
