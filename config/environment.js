@@ -3,6 +3,7 @@ exports.common = {
     nick: "dmkbot",
     channels: ["#node.js"],
   },
+  interval: 500,
   modules: {
     ping: {},
     docs: {},
