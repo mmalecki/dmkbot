@@ -12,7 +12,9 @@ exports.common = {
       interval: 15000,
       repos: ['joyent/node', 'joyent/libuv']
     },
-    eval: {}
+    eval: {
+      stderr: false
+    }
   }
 }
 
