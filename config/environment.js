@@ -11,7 +11,8 @@ exports.common = {
       colors: true,
       interval: 15000,
       repos: ['joyent/node', 'joyent/libuv']
-    }
+    },
+    eval: {}
   }
 }
 
