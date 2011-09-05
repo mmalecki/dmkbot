@@ -9,6 +9,7 @@ exports.common = {
     docs: {},
     up: {},
     github: {
+      __digest: 600000,
       colors: true,
       interval: 15000,
       repos: ['joyent/node', 'joyent/libuv']
