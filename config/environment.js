@@ -31,7 +31,7 @@ exports.production = {
   },
   modules: {
     github: {
-      __digest: 600000
+      __digest: 300000
     }
   }
 }
