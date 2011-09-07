@@ -12,11 +12,11 @@ exports.common = {
 		interval: 15000,
 		file:'./randomstuff.ini'
 	},
-    github: {
+/*    github: {
       interval: 15000,
       repo: 'jheusala/oulu'
     }
-  }
+*/  }
 }
 
 exports.development = {
