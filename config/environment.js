@@ -23,6 +23,11 @@ exports.development = {
   irc: {
     host: "localhost"
   },
+  modules: {
+    github: {
+      interval: 5000
+    }
+  }
 }
 
 exports.production = {
