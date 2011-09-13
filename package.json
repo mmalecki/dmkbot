@@ -14,7 +14,8 @@
   "dependencies": {
     "optimist" : "*",
     "irc" : "*",
-    "settings" : "*"
+    "settings" : "*",
+    "rssee" : "*"
   },
   "devDependencies": {}
 }
