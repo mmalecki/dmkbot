@@ -12,6 +12,7 @@
     "node": "*"
   },
   "dependencies": {
+    "optimist" : "*",
     "irc" : "*",
     "settings" : "*"
   },
