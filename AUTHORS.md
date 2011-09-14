@@ -6,7 +6,7 @@
 
 * **[Butu](https://github.com/butu5)**
   
-  * GitHub issues module
+  * [GitHub issues module](https://github.com/mmalecki/dmkbot/blob/master/lib/modules/github.js)
 
 * **[Jaakko-Heikki Heusala](https://github.com/jheusala)**
 
