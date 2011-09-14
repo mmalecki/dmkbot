@@ -1,5 +1,5 @@
 # dmkbot
-Copyright (C) 2011 by Maciej Małecki
+Copyright (C) 2011 by Maciej Małecki and contributors (see [AUTHORS.md](https://github.com/mmalecki/dmkbot/blob/master/AUTHORS.md)).  
 MIT License (see LICENSE file)
 
 dmkbot is a simple, extensible bot written for #node.js channel.
